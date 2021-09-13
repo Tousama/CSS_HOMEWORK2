@@ -20,6 +20,10 @@
     float: right;
     margin-top: 20px;
 }
+.header-text {
+    text-decoration: none;
+    color: darkslategray;
+}
 .gmail {
     margin: 5px;
 }
@@ -80,7 +84,11 @@
     margin-left: 25px;
 }
 .footer1 {
+    text-decoration: none;
     margin-left: 25px;
+    color: gray;
 }
-
-/* 1880 940 */
+.hakkinda {
+    text-decoration: none;
+    color: gray;
+}
