@@ -1,0 +1,86 @@
+.header{
+    margin: 0%;
+}
+.box {
+    width: 48px;
+    height: 48px;
+    margin: 0%;
+    float: right; 
+    padding: 10px;
+}
+.image {
+    margin: 6px;
+}
+.svg {
+    margin: 10px;
+}
+.box2 {
+    height: 48px;
+    width: 60px;
+    float: right;
+    margin-top: 20px;
+}
+.gmail {
+    margin: 5px;
+}
+.görseller {
+    margin: 5px;
+}
+.clear {
+    clear: both;
+}
+.google {
+    margin: 200px 800px 0px 900px;
+    float: right;
+}
+.brdr {
+    margin-top: 325px;
+    margin-left: 650px;
+    margin-right: 650px;
+    border-color:silver;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 15px;
+    
+}
+.search-icon {
+    width: 24px;
+
+}
+.keyboard {
+    margin-left: 430px;
+    width: 24px;
+}
+.voice {
+    margin-left: 15px;
+    width: 24px;
+}
+.search{
+    float: left;
+    margin-left: 35%;
+    
+}
+.box3 {
+    float: right;
+    margin-left: 10px;
+    padding: 15px 15px;
+}
+.box4 {
+    float: right;
+    margin-left: 120px;
+    padding: 15px 15px;
+}
+.Turkiye {
+    margin-top:375px;
+    margin-left: 25px;
+}
+.footer {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.footer1 {
+    margin-left: 25px;
+}
+
+/* 1880 940 */
